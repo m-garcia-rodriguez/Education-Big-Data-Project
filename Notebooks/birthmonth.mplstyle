@@ -1,5 +1,5 @@
 # Matplotlib style for Itxaso's analysis
-# Based on SciencePlots with custom color palette
+# Based on SciencePlots
 
 # Set default figure size
 figure.figsize : 7, 5.5
