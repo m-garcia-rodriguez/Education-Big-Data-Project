@@ -60,3 +60,10 @@ identify where data should be placed and how each team member’s analysis contr
 the overall study.
 </p>
 
+<p>
+  The following collaborators have contributed to this project:
+  <strong>Adrián LLamas Jaramillo --> allamas421617-a11y</strong>, 
+  <strong>Itxaso Muñoz Aldalur--> itxasoma</strong>, 
+  <strong>Peter Clark --> peter-clark</strong>.
+</p>
+
