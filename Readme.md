@@ -64,6 +64,7 @@ the overall study.
   The following collaborators have contributed to this project:
   <strong>Adrián LLamas Jaramillo --> allamas421617-a11y</strong>, 
   <strong>Itxaso Muñoz Aldalur--> itxasoma</strong>, 
-  <strong>Peter Clark --> peter-clark</strong>.
+  <strong>Peter Clark --> peter-clark</strong>,
+  <strong>Maria Garcia Rodríguez --> m-garcia-rodriguez</strong>
 </p>
 
